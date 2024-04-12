@@ -114,7 +114,7 @@ p {
   -moz-user-select: none;
   -ms-user-select: none;
   user-select: none;
-  border: 1px solid #314941;
+  border: 1px solid #01b7fa;
   padding: 0 30px;
   font-size: 16px;
   line-height: 48px;
@@ -126,7 +126,7 @@ p {
   -ms-transition: all 0.4s ease-out 0s;
   -o-transition: all 0.4s ease-out 0s;
   transition: all 0.4s ease-out 0s;
-  background-color: #314941;
+  background-color: #01b7fa;
   -webkit-box-shadow: 0px 5px 16px 0px rgba(235, 54, 86, 0.65);
   -moz-box-shadow: 0px 5px 16px 0px rgba(235, 54, 86, 0.65);
   box-shadow: 0px 5px 16px 0px rgba(235, 54, 86, 0.65);
@@ -136,21 +136,21 @@ p {
     margin-right: 5px; }
   .main-btn:hover {
     background-color: #fff;
-    color: #314941;
-    border-color: #314941; }
+    color: #01b7fa;
+    border-color: #01b7fa; }
   .main-btn.main-btn-2 {
     background-color: #fff;
-    color: #314941;
-    border-color: #314941; }
+    color: #01b7fa;
+    border-color: #01b7fa; }
     .main-btn.main-btn-2:hover {
-      background-color: #314941;
-      border-color: #314941;
+      background-color: #01b7fa;
+      border-color: #01b7fa;
       color: #fff; }
 
 /*===== All Section Title Style =====*/
 .section-title .sub-title {
   font-size: 18px;
-  color: #314941;
+  color: #01b7fa;
   text-transform: uppercase; }
   @media (max-width: 767px) {
     .section-title .sub-title {
@@ -250,7 +250,7 @@ p {
       height: 100%;
       border-style: solid;
       /* Spinner Color */
-      border-color: #314941 #314941 #ededed;
+      border-color: #01b7fa #01b7fa #ededed;
       border-radius: 50%;
       border-width: 6px; }
     .preloader .loader_34 .ytp-spinner-left .ytp-spinner-circle {
@@ -614,7 +614,7 @@ p {
         .navbar .navbar-nav .nav-item a {
           font-size: 13px; } }
     .navbar .navbar-nav .nav-item.active a, .navbar .navbar-nav .nav-item:hover a {
-      color: #314941; }
+      color: #01b7fa; }
   @media only screen and (min-width: 768px) and (max-width: 991px) {
     .navbar .navbar-btn {
       position: absolute;
@@ -646,7 +646,7 @@ p {
     z-index: 9; }
     .header-banner .banner-content .sub-title {
       font-size: 24px;
-      color: #314941;
+      color: #01b7fa;
       text-transform: uppercase; }
       @media (max-width: 767px) {
         .header-banner .banner-content .sub-title {
@@ -654,7 +654,7 @@ p {
     .header-banner .banner-content .banner-title {
       font-size: 60px; }
       .header-banner .banner-content .banner-title span {
-        color: #314941; }
+        color: #01b7fa; }
       @media (max-width: 767px) {
         .header-banner .banner-content .banner-title {
           font-size: 38px; } }
@@ -663,7 +663,7 @@ p {
       font-size: 15px;
       font-weight: 600;
       font-family: 'Barlow', sans-serif;
-      color: #314941;
+      color: #01b7fa;
       text-transform: uppercase;
       margin-left: 70px; }
       .header-banner .banner-content .banner-contact::before {
@@ -671,7 +671,7 @@ p {
         content: '';
         width: 60px;
         height: 2px;
-        background-color: #314941;
+        background-color: #01b7fa;
         left: -70px;
         top: 50%;
         -webkit-transform: translateY(-50%);
@@ -772,7 +772,7 @@ p {
           .about-image .about-btn .main-btn span {
             font-size: 28px; } }
       .about-image .about-btn .main-btn:hover {
-        border-color: #314941; }
+        border-color: #01b7fa; }
       @media (max-width: 767px) {
         .about-image .about-btn .main-btn {
           line-height: 48px;
@@ -788,7 +788,7 @@ p {
 
 .about-content .about-welcome {
   font-size: 24px;
-  color: #314941;
+  color: #01b7fa;
   text-transform: uppercase; }
   @media (max-width: 767px) {
     .about-content .about-welcome {
@@ -825,7 +825,7 @@ p {
       padding: 30px 10px; } }
   .single-services .services-icon i {
     font-size: 52px;
-    color: #314941;
+    color: #01b7fa;
     -webkit-transition: all 0.4s ease-out 0s;
     -moz-transition: all 0.4s ease-out 0s;
     -ms-transition: all 0.4s ease-out 0s;
@@ -841,7 +841,7 @@ p {
     -o-transition: all 0.4s ease-out 0s;
     transition: all 0.4s ease-out 0s; }
   .single-services:hover {
-    background-color: #314941; }
+    background-color: #01b7fa; }
     .single-services:hover .services-icon i {
       color: #fff; }
     .single-services:hover .services-content .services-title,
@@ -866,9 +866,9 @@ p {
       width: 100%;
       height: 100%;
       background: white;
-      background: -webkit-linear-gradient(rgba(255, 255, 255, 0) 50%, #314941 100%);
-      background: -o-linear-gradient(rgba(255, 255, 255, 0) 50%, #314941 100%);
-      background: linear-gradient(rgba(255, 255, 255, 0) 50%, #314941 100%);
+      background: -webkit-linear-gradient(rgba(255, 255, 255, 0) 50%, #01b7fa 100%);
+      background: -o-linear-gradient(rgba(255, 255, 255, 0) 50%, #01b7fa 100%);
+      background: linear-gradient(rgba(255, 255, 255, 0) 50%, #01b7fa 100%);
       opacity: 0;
       -webkit-transition: all 0.4s ease-out 0s;
       -moz-transition: all 0.4s ease-out 0s;
@@ -938,7 +938,7 @@ p {
       cursor: pointer; }
     .project-active .slick-dots li.slick-active button {
       width: 35px;
-      background-color: #314941; }
+      background-color: #01b7fa; }
 
 /*===========================
         6.TEAM css 
@@ -975,7 +975,7 @@ p {
     -o-transition: all 0.4s ease-out 0s;
     transition: all 0.4s ease-out 0s; }
     .single-team .team-content .team-name a:hover {
-      color: #314941; }
+      color: #01b7fa; }
   .single-team .team-content .sub-title {
     font-size: 14px;
     color: #646464; }
@@ -1006,7 +1006,7 @@ p {
         -o-transition: all 0.4s ease-out 0s;
         transition: all 0.4s ease-out 0s; }
         .single-team .team-content .social li a:hover {
-          background-color: #314941;
+          background-color: #01b7fa;
           color: #fff; }
 
 .single-team:hover .team-content {
@@ -1058,7 +1058,7 @@ p {
   z-index: 9; }
 
 .testimonial-active {
-  background-color: #314941;
+  background-color: #01b7fa;
   padding: 60px 30px; }
   @media (max-width: 767px) {
     .testimonial-active {
@@ -1076,13 +1076,13 @@ p {
     display: inline-block; }
     .single-testimonial .testimonial-image .quota i {
       font-size: 18px;
-      color: #314941;
+      color: #01b7fa;
       width: 30px;
       height: 30px;
       line-height: 28px;
       text-align: center;
       background-color: #fff;
-      border: 2px solid #314941;
+      border: 2px solid #01b7fa;
       border-radius: 50%; }
 
 .single-testimonial .testimonial-content p {
@@ -1267,7 +1267,7 @@ p.form-message.error {
     -o-transition: all 0.4s ease-out 0s;
     transition: all 0.4s ease-out 0s; }
     .footer-logo .footer-social li a:hover {
-      background-color: #314941;
+      background-color: #01b7fa;
       color: #fff; }
 
 .f-title .title {
@@ -1287,7 +1287,7 @@ p.form-message.error {
     -o-transition: all 0.4s ease-out 0s;
     transition: all 0.4s ease-out 0s; }
     .footer-link ul li a:hover {
-      color: #314941; }
+      color: #01b7fa; }
 
 .footer-newsleter p {
   line-height: 26px;
@@ -1299,7 +1299,7 @@ p.form-message.error {
     width: 100%;
     height: 50px;
     padding: 0 20px;
-    border: 1px solid #314941;
+    border: 1px solid #01b7fa;
     background-color: #ffeae1; }
   .footer-newsleter .newsleter button {
     border: 0;
@@ -1311,7 +1311,7 @@ p.form-message.error {
     position: absolute;
     top: 0;
     right: 0;
-    color: #314941;
+    color: #01b7fa;
     font-size: 20px;
     line-height: 57px;
     cursor: pointer; }
@@ -1325,7 +1325,7 @@ p.form-message.error {
       left: 0;
       width: 1px;
       height: 36px;
-      background-color: #314941;
+      background-color: #01b7fa;
       -webkit-transform: translateY(-50%);
       -moz-transform: translateY(-50%);
       -ms-transform: translateY(-50%);
@@ -1356,7 +1356,7 @@ p.form-message.error {
   -o-transition: all 0.4s ease-out 0s;
   transition: all 0.4s ease-out 0s;
   color: #fff;
-  background-color: #314941; }
+  background-color: #01b7fa; }
   .back-to-top:hover {
-    color: #314941;
+    color: #01b7fa;
     background-color: #fff; }
